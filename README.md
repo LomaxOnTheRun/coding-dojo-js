@@ -43,3 +43,9 @@ To this end, the steps the group will take are:
 3. Refactor the code wherever you think it can be. You can write and edit code in either file during this phase, but all tests must still be passing by the time you're finished. It is exceedingly rare that there is nothing to refactor.
 
 Once the refactoring phase is over, circle back to writing a new test and keep looping through the list until the time runs out or the kata is completed.
+
+### Additional thoughts
+
+- Try to make each test as small as possible. The smaller the better a coder you are.
+- Only add new tests (unless refactoring). All tests should keep in mind the final goal.
+- No looking up the answer(?)
