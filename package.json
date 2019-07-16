@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "dojos",
+  "version": "1.0.0",
+  "main": "kata.js",
+  "author": "Ben Lomax",
+  "license": "ISC",
+  "description": "Coding dojo",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
